@@ -41,8 +41,8 @@ Tested on [number] questions using [dataset name].
 
 ## Run it locally
 ```
-git clone https://github.com/bhavishyaaggarwal543/ai-data-analyst-assistant.git
-cd ai-data-analyst-assistant
+git clone https://github.com/bhavishyaaggarwal543/AI-Data-Analyst-Assistant.git
+cd AI-Data-Analyst-Assistant
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
