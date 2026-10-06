@@ -2,6 +2,10 @@
 
 Upload a CSV or Excel file, ask questions about it in plain English, and get answers as tables, numbers or charts. An LLM writes the Pandas code, the app checks it and runs it, and explains the result in simple words.
 
+**Live demo:** https://ai-data-analyst-assistant-mscnpaydaryl6gsbmkwxcw.streamlit.app
+
+*Tip: try it with `sample_data.csv` from this repo. The demo may be slow or rate-limited at busy times.*
+
 ## Features
 - Ask questions in plain English (no code needed)
 - Automatic data summary: missing values, duplicates, column types, statistics
