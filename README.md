@@ -48,14 +48,7 @@ Tested on a 50,000-row sample of the Online Retail II dataset (Dec 2009 – Jan 
 Python, Pandas, NumPy, Matplotlib, Streamlit, Groq API (gpt-oss models)
 
 ## Results
-Tested on [number] questions using [dataset name].
-
-| Metric | Result |
-|---|---|
-| Overall accuracy | [x]% |
-| Accuracy without retry loop | [x]% |
-| Accuracy with retry loop | [x]% |
-| Most common failure | [describe] |
+Evaluation on a test set of questions is in progress and will be added here soon.
 
 ## Limitations
 - The code check blocks risky patterns but is not a full security sandbox. Don't use it on a public server with sensitive data.
