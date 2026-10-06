@@ -2,7 +2,30 @@
 
 Upload a CSV or Excel file, ask questions about it in plain English, and get answers as tables, numbers or charts. An LLM writes the Pandas code, the app checks it and runs it, and explains the result in simple words.
 
-**Live demo:** [add your Streamlit link here]
+## Demo
+Tested on a 50,000-row sample of the Online Retail II dataset (Dec 2009 – Jan 2010).
+
+### 1. Upload a file and preview the data
+![Upload and preview](images/upload-and-preview.png)
+
+### 2. Automatic data summary
+![Data summary](images/data-summary.png)
+
+### 3. Suggested questions
+![Suggested question](images/suggested-question.png)
+![Suggested question answer](images/suggested-question-answer.png)
+
+### 4. Ask your own questions
+![Total revenue](images/total-revenue-answer.png)
+![Top countries table](images/top-countries-table.png)
+
+### 5. Follow-up questions and charts
+![Follow-up bar chart](images/follow-up-bar-chart.png)
+![Monthly revenue line chart](images/monthly-revenue-line-chart.png)
+
+### 6. See the code and the conversation
+![Generated code](images/generated-code.png)
+![Previous questions](images/all-previous-questions.png)
 
 ## Features
 - Ask questions in plain English (no code needed)
